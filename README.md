@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sude Bayhan</h1>
-<h3 align="center">3rd year Computer Engineering student and Developer</h3>
+<h3 align="center">4rd year Computer Engineering student and Developer</h3>
 
 - 👨‍💻Proje [Robot project that shoots black dots](https://github.com/sudebyhn/004.git)
 
 - 🌱 I’m currently learning **a piece of everything**
 
-- 📄all information about me [https://pdf.ac/1tRfVF](https://pdf.ac/1tRfVF)
+- 📄all information about me [https://smallpdf.com/tr/result#r=78a199635fe05f1916feb831a01c3f30&t=share-document](https://smallpdf.com/tr/result#r=78a199635fe05f1916feb831a01c3f30&t=share-document)
 
 -  2024 Goals: Learn more about **in the field of artificial intelligence ,data science and software **
 

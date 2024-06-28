@@ -7,7 +7,7 @@
 
 - 📄all information about me [https://pdf.ac/1tRfVF](https://pdf.ac/1tRfVF)
 
-- 🥅 2022 Goals: Learn more about **in the field of artificial intelligence**
+-  2024 Goals: Learn more about **in the field of artificial intelligence ,data science and software **
 
 - 📫 How to reach me **sude.bayhan@outlook.com**
 

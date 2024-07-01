@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **a piece of everything**
 
-- 📄all information about me in this [CV](https://smallpdf.com/tr/result#r=78a199635fe05f1916feb831a01c3f30&t=share-document)
-
 -  2024 Goals: Learn more about **in the field of artificial intelligence ,data science and software **
 
 - 📫 How to reach me **sude.bayhan@outlook.com**

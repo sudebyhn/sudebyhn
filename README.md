@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **a piece of everything**
 
--  2024 Goals: Learn more about **in the field of artificial intelligence ,data science and software **
+-  2025 Goals: Learn more about **in the field of artificial intelligence  and software **
 
 - 📫 How to reach me **sude.bayhan@outlook.com**
 

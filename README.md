@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sude Bayhan</h1>
 <h3 align="center"> Computer Engineer </h3>
 
-- 👨‍💻Proje [Robot project that shoots black dots](https://github.com/sudebyhn/004.git)
 
 - 🌱 I’m currently learning **a piece of everything**
 
--  2025 Goals: Learn more about **in the field of artificial intelligence  and software **
+
 
 - 📫 How to reach me **sude.bayhan@outlook.com**
 

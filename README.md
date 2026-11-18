@@ -19,9 +19,14 @@ I design and build internal systems end to end: from business analysis and archi
 - 💼 **Software Developer at Skoda Yüce Auto** (Aug 2025 – Nov 2026): took **8 internal systems live**, used by **100+ employees**.
 - 🤖 Built an **enterprise AI assistant** that combines a rule-based intent engine with an LLM and live internal APIs.
 - 🏗️ End-to-end ownership: analysis, system architecture, database design and queries, backend, frontend, role-based access and deployment.
+- 🧪 Requirements gathering, test scenarios, UAT and test-to-production go-live; Agile / Scrum sprints in Jira, API testing with Postman.
 - 🔁 Version control with **Git and GitHub** in day-to-day team work.
 - 🎓 Computer Engineering, Üsküdar University (100% English-taught), GPA 3.53 / 4.00
 - 🌍 Turkish (native) · English (B2) · German (A1)
+
+### Certifications
+
+Google Data Engineering Essentials Bootcamp (2025) · Kairu Artificial Intelligence Bootcamp, 10 weeks (2025) · Akbank Cloud Machine Learning Bootcamp (2024) · Deep Learning with Python (2024)
 
 ### Experience
 
